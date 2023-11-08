@@ -1,0 +1,30 @@
+header {
+    background: rgb(135, 222, 190);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    color: rgb(95, 166, 8);
+    margin-bottom: 20px;
+} 
+form { margin-top: 3;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 2px solid #a11717;
+  }
+  
+  input,
+  label {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="submit"] {
+    background-color: #f11414;
+    color: #472179;
+    padding: 10px; }
